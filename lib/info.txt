@@ -1,0 +1,6 @@
+3.8.1 => 4.0.0
+
+add local notification,
+admob,
+set reminder,
+animated text,

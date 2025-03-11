@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548101597316",
+    "project_id": "sjc-college",
+    "storage_bucket": "sjc-college.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548101597316:android:9a89810d5003f124d53ad1",
+        "android_client_info": {
+          "package_name": "com.cdstech.sjc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACtXZKmk-HEG977KcVjbCOU2iIgfMwwDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
